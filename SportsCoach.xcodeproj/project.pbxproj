@@ -27,7 +27,6 @@
 		84DFA3952CA3FDD000AE2EEA /* SportsCoachApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCoachApp.swift; sourceTree = "<group>"; };
 		84DFA3992CA3FDD100AE2EEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84DFA39C2CA3FDD100AE2EEA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		84DFA3A62CA3FDEC00AE2EEA /* stream-chat-swiftui */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "stream-chat-swiftui"; path = "../stream-chat-swiftui"; sourceTree = "<group>"; };
 		84DFA3A72CA4043800AE2EEA /* SportsCoachViewFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsCoachViewFactory.swift; sourceTree = "<group>"; };
 		84DFA3A92CA5A9C900AE2EEA /* CustomReactionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomReactionsView.swift; sourceTree = "<group>"; };
 		84DFA3AB2CA69A3E00AE2EEA /* ReactionListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReactionListView.swift; sourceTree = "<group>"; };
@@ -48,7 +47,6 @@
 		84DFA3892CA3FDD000AE2EEA = {
 			isa = PBXGroup;
 			children = (
-				84DFA3A62CA3FDEC00AE2EEA /* stream-chat-swiftui */,
 				84DFA3942CA3FDD000AE2EEA /* SportsCoach */,
 				84DFA3932CA3FDD000AE2EEA /* Products */,
 			);
@@ -314,6 +312,7 @@
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -347,6 +346,7 @@
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

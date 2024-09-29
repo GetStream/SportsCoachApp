@@ -1,4 +1,5 @@
 {
+  "originHash" : "c47b1e3d8b7978d05077a9a794f0e914afc801e716921fae93089871091527db",
   "pins" : [
     {
       "identity" : "stream-chat-swift",
@@ -10,23 +11,14 @@
       }
     },
     {
-      "identity" : "swift-docc-plugin",
+      "identity" : "stream-chat-swiftui",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-docc-plugin",
+      "location" : "https://github.com/GetStream/stream-chat-swiftui",
       "state" : {
-        "revision" : "85e4bb4e1cd62cec64a4b8e769dcefdf0c5b9d64",
-        "version" : "1.4.3"
-      }
-    },
-    {
-      "identity" : "swift-docc-symbolkit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/swiftlang/swift-docc-symbolkit",
-      "state" : {
-        "revision" : "b45d1f2ed151d057b54504d653e0da5552844e34",
-        "version" : "1.0.0"
+        "revision" : "3d7a55487d4ccda8794ccafb30dc4d618e227cce",
+        "version" : "4.63.0"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
