@@ -82,7 +82,7 @@ struct CustomTrailingComposerView: View {
     var onTap: () -> Void
     
     var body: some View {
-        if !viewModel.text.isEmpty {
+        if viewModel.sendButtonEnabled {
             Button {
                 onTap()
             } label: {
