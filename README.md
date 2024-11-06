@@ -8,6 +8,14 @@ This is a sample app that shows the extensibility of the Stream Chat SDK, with a
 - styling of the composer
 - theming, colors and icons adjustments
 
+### Would you like to add these capabilities and more to your App?
+
+This project uses [Stream](https://getstream.io/)'s battle-tested chat infrastructure. Check out our:
+
+- ⭐ [Chat API](https://getstream.io/chat/)
+- 📱 [Video API](https://getstream.io/video/)
+- 🔔 [Activity Feeds](https://getstream.io/activity-feeds/)
+
 ### Running the sample
 
 In order to run the sample, you first need to clone it:
